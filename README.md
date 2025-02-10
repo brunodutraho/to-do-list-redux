@@ -1,4 +1,4 @@
-<h1 align="center">Projeto To-do List with Redux (Lista de Tarefas com Redux)</h1>
+<h1 align="center">Projet To-do List with Redux (Lista de Tarefas com Redux)</h1>
 
 ###
 
